@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Office on Artec Business Systems</title>
-    <link>https://demo.gethugothemes.com/bizcraft/site/categories/office/</link>
+    <link>https://www.artecbs.com.au/categories/office/</link>
     <description>Recent content in Office on Artec Business Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Feb 2023 12:14:34 +0600</lastBuildDate>
-    <atom:link href="https://demo.gethugothemes.com/bizcraft/site/categories/office/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.artecbs.com.au/categories/office/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Office 365</title>
-      <link>https://demo.gethugothemes.com/bizcraft/site/blog/post-2/</link>
+      <link>https://www.artecbs.com.au/blog/post-2/</link>
       <pubDate>Sun, 12 Feb 2023 12:14:34 +0600</pubDate>
-      <guid>https://demo.gethugothemes.com/bizcraft/site/blog/post-2/</guid>
+      <guid>https://www.artecbs.com.au/blog/post-2/</guid>
       <description>Access your documents and emails 24 hours a day, from anywhere.</description>
     </item>
   </channel>
